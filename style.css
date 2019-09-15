@@ -1,0 +1,101 @@
+body {
+
+	font-family: 'Josefin Sans', sans-serif;
+
+	font-size: 15 px;
+
+	background-color: black;
+}
+    	
+.title {
+	width: 100%;
+	background-color: black;
+	color: white;
+	height: 65px;
+	margin-top: 50px;
+	text-align: center;
+	line-height: 5px;
+}
+
+.navigation{
+	color: white;
+	text-align: center;
+	height: 25px;
+	bottom: 3px;
+	border-bottom: 2px solid #ccc;
+}
+
+.inf{
+	margin-left: 50px;
+	margin-right: 50px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	border-bottom: 2px solid #ccc;
+}
+
+.title-bio{
+	color: white;
+	height: 20px;
+	text-align: center;
+}
+
+.text{
+	height: 350px;
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-bottom: 2px solid #ccc;
+}
+.playlist-text{
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+.audionames{
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;	
+	text-align: center;
+}
+
+.topbutton {
+width:100px;
+border:2px solid #ccc;
+background:#f7f7f7;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:50px;
+right:5px;
+cursor:pointer;
+color:#333;
+font-family:verdana;
+font-size:12px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+}
+table{
+	margin: auto;
+}
+.audio{
+	margin-left: 50px;
+	margin-right: 50px;	
+	border-bottom: 2px solid #ccc;
+}
+
+.photos{
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 790px;
+	border-bottom: 2px solid #ccc;
+}
+
+.contacts{
+	color: white;
+	font-size: 20px;
+	height: 100px;
+}
